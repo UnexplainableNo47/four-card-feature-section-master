@@ -95,6 +95,9 @@ b{
 }
 
 @media only screen and (max-width:1000px) {
+    .container{
+        height: 100%;
+    }
     .grid-container{
         margin: auto;
         display: grid;
